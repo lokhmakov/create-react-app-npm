@@ -1,6 +1,6 @@
 {
   "name": "create-react-app-npm",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "main": "lib/index.js",
   "dependencies": {
     "react": "^15.5.3",
